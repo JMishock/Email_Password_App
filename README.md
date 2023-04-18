@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110921145/232877507-4d7a9c88-1cb0-46c7-b9d3-d2e636e9e383.png)
+
+
+
 Email and Password Application
 
 This is a simple application presented in the Udemy.com course "React-The Complete Guide(incl Hooks, React Router, Redux)
